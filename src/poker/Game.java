@@ -340,7 +340,7 @@ public class Game extends Thread {
 				
 				this.setPot(0);
 				chipsAdded = false;
-				enteredEnd = true;
+				enteredEnd = false;
 				
 				counter = 5;
 				
